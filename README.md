@@ -1,49 +1,75 @@
-Hey, I'm Intekhab Alam 👋
-Software Engineer | Full-Stack Developer | AI & Networking Enthusiast
-I'm a Computer Science and Engineering student at Darbhanga College of Engineering, Darbhanga, passionate about building impactful software solutions, intelligent applications, and exploring emerging technologies.
+<h1 align="center">Hi, I'm Intekhab Alam 👋</h1>
 
-Currently, I'm working as an IT Intern at North Bihar Power Distribution Company Limited (NBPDCL), Government of Bihar. Previously, I worked as a Software Development Engineer Intern at Invigo Infotech, gaining hands-on experience in frontend development and responsive web design.
-- 💻 Interested in Software Engineering, Full-Stack Development & AI.
-- 🌐 CCNA Certified in Networking, Security & Automation.
-- 🤖 Oracle Certified Generative AI Professional.
-- 🧠 Solved 150+ DSA problems on LeetCode.
-- 🏆 College Rank 1 | University Rank 7.
-- 🎓 CGPA: 9.08/10.
-🚀 Featured Projects
-Project	Description	Technologies
-Smart Road Damage Reporting System	Civic issue reporting platform handling 100+ reports	React.js, JavaScript, HTML, CSS
-AI-Powered Resume Analyzer	AI-based resume screening with 80–85% keyword-matching accuracy	Python, React.js, JavaScript
-NetSage AI	AI-assisted network troubleshooting with human review	Python, Gemini API, Prompt Engineering
+<h3 align="center">Software Engineer · Full-Stack Developer · AI &amp; Networking Enthusiast</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
-🛠️ Tech Stack
-Languages: C, C++, Java, Python, JavaScript, SQL
+---
 
-Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+## 👨‍💻 About Me
 
-Backend & Databases: Node.js, MongoDB, MySQL, PostgreSQL
+I'm a Computer Science & Engineering student at **Darbhanga College of Engineering**, passionate about building impactful software, intelligent applications, and exploring emerging technologies.
 
-AI & Emerging Technologies: Generative AI, LLMs, Prompt Engineering, Gemini API, Machine Learning, Responsible AI
+- 🏢 **Now:** IT Intern at **North Bihar Power Distribution Company Limited (NBPDCL)**, Government of Bihar
+- 💼 **Previously:** Software Development Engineer Intern at **Invigo Infotech**, working on frontend development and responsive web design
+- 🎓 **Academics:** CGPA **9.08 / 10** · College Rank **1** · University Rank **7**
+- 🧠 **LeetCode:** 150+ DSA problems solved
+- 🌐 **Interests:** Full-Stack Development, Generative AI, Networking & Security
 
-Networking & Security: CCNA, TCP/IP, VLANs, Routing & Switching, DHCP, DNS, ACLs, NAT, Cisco Packet Tracer
+---
 
-Tools: Git, GitHub, VS Code, Linux, Docker, Kubernetes
-🏅 Certifications
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- Cisco CCNA — Introduction to Networks
-- Cisco CCNA — Switching, Routing & Wireless Essentials
-- Cisco CCNA — Enterprise Networking, Security & Automation
-- NPTEL — Operating System Fundamentals
-- IIT Bombay — Linux Spoken Tutorial
-- NPTEL Elite — Top 5%, Soft Skill Development
-📊 Achievements
-- 🥇 College Rank 1 — Darbhanga College of Engineering
-- 🏅 University Rank 7 — Bihar Engineering University
-- 💡 150+ DSA problems solved on LeetCode
-- 📈 CGPA: 9.08/10
-🤝 Connect With Me
-I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with developers and engineers.
+## 🚀 Featured Projects
 
-Open to opportunities in Software Development, Artificial Intelligence, and Networking.
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Smart Road Damage Reporting System**](https://github.com/intekhabalam01/smart-road-damage-reporting-system) | Civic issue reporting platform that handled 100+ citizen reports | React.js, JavaScript, HTML, CSS |
+| [**AI-Powered Resume Analyzer**](https://github.com/intekhabalam01/ai-resume-analyzer) | AI-based resume screening with 80–85% keyword-matching accuracy | Python, React.js, JavaScript |
+| [**NetSage AI**](https://github.com/intekhabalam01/netsage-ai) | AI-assisted network troubleshooting with human-in-the-loop review | Python, Gemini API, Prompt Engineering |
 
-Let's connect and build something meaningful! 🚀
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c,cpp,java,py,js,mysql)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres)
+
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,kubernetes)
+
+**AI & Emerging Tech:** Generative AI · LLMs · Prompt Engineering · Gemini API · Machine Learning · Responsible AI
+
+**Networking & Security:** CCNA · TCP/IP · VLANs · Routing & Switching · DHCP · DNS · ACLs · NAT · Cisco Packet Tracer
+
+---
+
+## 🏅 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- **CCNA** — Networking, Security & Automation (Cisco)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing software engineering, AI, and networking, or collaborating on meaningful projects.
+
+📧 **Email:** YOUR-EMAIL@example.com
+🔗 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+<p align="center">
+  <i>"Building software that solves real problems."</i>
+</p>
