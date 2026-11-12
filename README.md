@@ -66,14 +66,6 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=intekhabalam01&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
 
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=intekhabalam01
-&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=intekhabalam01
-&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
-
 </div><br>
 <!-- Snake Game Repo View -->
 
