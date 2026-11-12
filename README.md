@@ -61,6 +61,7 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ## 🛠️ Tech Stack
 
 **Languages**
