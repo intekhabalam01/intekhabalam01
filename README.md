@@ -55,7 +55,12 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 | **Software Development Engineer Intern** | Invigo Infotech, Darbhanga | Jun 2025 · Frontend Web Development |
 
 ---
+</div><br>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🛠️ Tech Stack
 
 **Languages**
