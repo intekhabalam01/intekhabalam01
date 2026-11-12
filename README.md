@@ -3,8 +3,8 @@
 <h3 align="center">Software Engineer · Full-Stack Developer · AI &amp; Networking Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/intekhabalam01"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:intekhab1977alam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
@@ -12,23 +12,47 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student at **Darbhanga College of Engineering**, passionate about building impactful software, intelligent applications, and exploring emerging technologies.
+I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of Engineering** (Bihar Engineering University) with a strong foundation in web development, networking, and applied AI. I enjoy building responsive web interfaces, intelligent applications, and solving problems with core CS fundamentals: DSA, OS, DBMS, COA, and DAA.
 
-- 🏢 **Now:** IT Intern at **North Bihar Power Distribution Company Limited (NBPDCL)**, Government of Bihar
-- 💼 **Previously:** Software Development Engineer Intern at **Invigo Infotech**, working on frontend development and responsive web design
-- 🎓 **Academics:** CGPA **9.08 / 10** · College Rank **1** · University Rank **7**
-- 🧠 **LeetCode:** 150+ DSA problems solved
+- 🏢 **Now:** IT Intern at **North Bihar Power Distribution Company Limited (NBPDCL)**, Patna, placed through the Internship Portal of DSTTE, Government of Bihar
+- 🎓 **Academics:** CGPA **9.08 / 10** · **College Rank 1** · **University Rank 7**
+- 🧠 **Problem solving:** 150+ DSA problems solved on LeetCode
 - 🌐 **Interests:** Full-Stack Development, Generative AI, Networking & Security
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+### [Smart Road Damage Reporting System](https://github.com/intekhabalam01/smart-road-damage-reporting-system)
+`React.js` `JavaScript` `HTML` `CSS`
+
+- Scalable web platform that manages **100+ user-reported** road damage and civic complaints
+- Responsive UI with **95% mobile compatibility** and location-based reporting that improved issue-tracking efficiency by **30%**
+- Frontend optimizations that cut page load time by **25%**
+
+### [AI-Powered Resume Analyzer](https://github.com/intekhabalam01/ai-resume-analyzer)
+`Python` `React.js` `Tailwind CSS` `JavaScript`
+
+- AI-driven resume screening with **80–85% accuracy** in skill and keyword matching
+- Processed **50+ resumes**, reducing manual screening effort by **60%** and improving job-match scores by **20%**
+
+### [NetSage AI: AI-Assisted Network Troubleshooting](https://github.com/intekhabalam01/netsage-ai)
+`Python` `Gemini API` `Prompt Engineering` `openpyxl` `Responsible AI`
+
+- Built during the **Cisco AICTE Virtual Internship Program** using structured JSON prompt design and Gemini API integration
+- Achieved an **83.3% agreement rate** across 30 validation cases with human-in-the-loop (HITL) validation
+- Automated data handling and dashboard reporting with Python and openpyxl
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
 |---|---|---|
-| [**Smart Road Damage Reporting System**](https://github.com/intekhabalam01/smart-road-damage-reporting-system) | Civic issue reporting platform that handled 100+ citizen reports | React.js, JavaScript, HTML, CSS |
-| [**AI-Powered Resume Analyzer**](https://github.com/intekhabalam01/ai-resume-analyzer) | AI-based resume screening with 80–85% keyword-matching accuracy | Python, React.js, JavaScript |
-| [**NetSage AI**](https://github.com/intekhabalam01/netsage-ai) | AI-assisted network troubleshooting with human-in-the-loop review | Python, Gemini API, Prompt Engineering |
+| **IT Intern** | North Bihar Power Distribution Company Limited (NBPDCL), Patna | Oct 2026 – Present |
+| **AI Intern** | Cisco AICTE Virtual Internship Program (Cisco Networking Academy) | Jun 2026 – Aug 2026 |
+| **Intern, Summer Entrepreneurship–II (Artificial Intelligence)** | Edulogy Institute | Mar 2026 – Apr 2026 · Grade A++ |
+| **Software Development Engineer Intern** | Invigo Infotech, Darbhanga | Jun 2025 · Frontend Web Development |
 
 ---
 
@@ -36,7 +60,7 @@ I'm a Computer Science & Engineering student at **Darbhanga College of Engineeri
 
 **Languages**
 
-![C](https://skillicons.dev/icons?i=c,cpp,java,py,js,mysql)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js)
 
 **Frontend**
 
@@ -46,30 +70,44 @@ I'm a Computer Science & Engineering student at **Darbhanga College of Engineeri
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres)
 
-**Tools & DevOps**
+**Tools & Platforms**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,kubernetes)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,kubernetes)
 
-**AI & Emerging Tech:** Generative AI · LLMs · Prompt Engineering · Gemini API · Machine Learning · Responsible AI
+**AI & LLMs:** Generative AI · Prompt Engineering (structured JSON) · Gemini API · Human-in-the-Loop Systems · AI Model Evaluation · Responsible AI
 
-**Networking & Security:** CCNA · TCP/IP · VLANs · Routing & Switching · DHCP · DNS · ACLs · NAT · Cisco Packet Tracer
+**Networking & Security:** TCP/IP · OSI Model · IPv4/IPv6 Addressing · Subnetting · VLANs & Inter-VLAN Routing · STP & EtherChannel · Static Routing & OSPFv2 · DHCP · DNS · ACLs · NAT · WLAN & Switch Security · QoS · SDN & Network Automation (concepts) · Cisco IOS / CLI · Cisco Packet Tracer · Network Troubleshooting · Vulnerability Assessment · Threat Management
 
 ---
 
 ## 🏅 Certifications
 
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-- **CCNA** — Networking, Security & Automation (Cisco)
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**, Oracle University (Aug 2025 – Aug 2027)
+- **Cisco Networking Academy: CCNA course series** (all three completed, Jun 2026)
+  - *CCNA: Introduction to Networks:* switches, routers, IPv4/IPv6 addressing, network security best practices, small-network troubleshooting
+  - *CCNA: Switching, Routing, and Wireless Essentials:* VLANs, inter-VLAN routing, STP/EtherChannel, WLAN security, IPv4/IPv6 static routing
+  - *CCNA: Enterprise Networking, Security, and Automation:* OSPFv2, IPv4 ACLs, NAT, QoS, virtualization, SDN, and automation
+- **NPTEL Elite, Top 5% (All India):** Soft Skill Development, IIT Kharagpur (81%, Mar 2026)
+- **NPTEL Elite:** Operating System Fundamentals, IIT Kharagpur (Oct 2025)
+- **Edulogy Institute:** Summer Entrepreneurship–II in Artificial Intelligence, Grade A++ (Apr 2026)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **College Rank 1**, Darbhanga College of Engineering (Apr 2026)
+- 🎖️ **University Rank 7**, Bihar Engineering University (Apr 2026)
+- ⭐ **NPTEL Elite, Top 5% (All India)**, IIT Kharagpur (Mar 2026)
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing software engineering, AI, and networking, or collaborating on meaningful projects.
+I'm open to internships, entry-level software roles, and collaborations in full-stack development, AI, and networking.
 
-📧 **Email:** YOUR-EMAIL@example.com
-🔗 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+📧 [intekhab1977alam@gmail.com](mailto:intekhab1977alam@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/intekhabalam01)
 
 <p align="center">
-  <i>"Building software that solves real problems."</i>
+  <i>Building software that solves real problems.</i>
 </p>
