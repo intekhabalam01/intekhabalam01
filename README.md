@@ -58,13 +58,13 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intekhabalam01&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intekhabalam01&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intekhabalam01&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intekhabalam01&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intekhabalam01&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=intekhabalam01&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
+<img height="158" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intekhabalam01&theme=radical">
+<img height="158" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intekhabalam01&theme=radical">
+<img height="160" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intekhabalam01&theme=radical">
+<img height="160" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intekhabalam01&theme=radical">
+<img height="160" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intekhabalam01&theme=radical&utcOffset=6">
+<img height="169" alt="Top stats" src="https://github-readme-stats.vercel.app/api?username=intekhabalam01&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169" alt="Streak stats" src="https://streak-stats.demolab.com/?user=intekhabalam01&theme=radical">
 
 </div><br>
 <!-- Snake Game Repo View -->
