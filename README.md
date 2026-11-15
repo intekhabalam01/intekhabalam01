@@ -21,7 +21,14 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
+
+### [NetSage AI: AI-Assisted Network Troubleshooting](https://github.com/intekhabalam01/NetSage-AI-Project)
+`Python` `Gemini API` `Prompt Engineering` `openpyxl` `Responsible AI`
+
+- Built during the **Cisco AICTE Virtual Internship Program** using structured JSON prompt design and Gemini API integration
+- Achieved an **83.3% agreement rate** across 30 validation cases with human-in-the-loop (HITL) validation
+- Automated data handling and dashboard reporting with Python and openpyxl
 
 ### [Smart Road Damage Reporting System](https://github.com/intekhabalam01/smart-road-damage-reporting-system)
 `React.js` `JavaScript` `HTML` `CSS`
@@ -35,14 +42,6 @@ I'm a B.Tech Computer Science & Engineering student at **Darbhanga College of En
 
 - AI-driven resume screening with **80–85% accuracy** in skill and keyword matching
 - Processed **50+ resumes**, reducing manual screening effort by **60%** and improving job-match scores by **20%**
-
-### [NetSage AI: AI-Assisted Network Troubleshooting](https://github.com/intekhabalam01/NetSage-AI-Project)
-`Python` `Gemini API` `Prompt Engineering` `openpyxl` `Responsible AI`
-
-- Built during the **Cisco AICTE Virtual Internship Program** using structured JSON prompt design and Gemini API integration
-- Achieved an **83.3% agreement rate** across 30 validation cases with human-in-the-loop (HITL) validation
-- Automated data handling and dashboard reporting with Python and openpyxl
-
 ---
 
 ## 💼 Experience
